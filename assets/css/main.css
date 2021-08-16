@@ -194,3 +194,15 @@ section .set div:nth-child(8) {
 .btns span.playPause ion-icon {
     font-size: 3em;
 }
+
+@media (max-width:46.1875em ) {
+    .player {
+        width: 377px;
+        margin-top: 10px;
+    }
+
+    section h2 {
+        font-size: 2em;
+        margin-top: 46px;
+    }
+}
