@@ -131,7 +131,7 @@ section .set div:nth-child(8) {
 }
 .title {
     font-weight: 400;
-    font-size: 1em;
+    font-size: 2em;
     color: #fff;
     display: inline-flex;
     text-align: center;
